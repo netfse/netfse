@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Chris Li.
+A Junior Full Stack Developer based in Hong Kong.
+
+Major in Bsc Computer Science
+A third-year student at the City University of Hong Kong
+
+I'm interested in the field of software design and programming.
