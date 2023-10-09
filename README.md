@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Chris Li.
+💬I'm Chris Li.
 A Junior Full Stack Developer based in Hong Kong.
 
 Major in Bsc Computer Science
 A third-year student at the City University of Hong Kong
 
-I'm interested in the field of software design and programming.
+🤔I'm interested in the field of software design and programming.
+
+⚡My Projects
+- Personal Website (ReactJS + MaterialUI + TailwindCSS Frontend)
+- Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS Frontend)
+- User Login System (ReactJS Frontend + ExpressJS Backend)
+- Underwater robotics computer vision (Python OpenCV)
