@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬I'm Chris Li.
-A Junior Full Stack Developer based in Hong Kong.
+💬 I'm Chris Li.
+    A Junior Full Stack Developer based in Hong Kong.
 
 Major in Bsc Computer Science
 A third-year student at the City University of Hong Kong
@@ -29,7 +29,7 @@ A third-year student at the City University of Hong Kong
 - User Login System (ReactJS + MaterialUI + ExpressJS)
 
 ⚡School Underwater Robotics Projects
-- Underwater robotics computer vision (Python OpenCV)
+- Underwater Robotics Computer Vision (Python OpenCV)
   
 ⚡School Projects
 - Cinema Website (HTML CSS Javascript)
