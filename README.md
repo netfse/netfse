@@ -27,4 +27,14 @@ A third-year student at the City University of Hong Kong
 - Personal Reactive Website (ReactJS + MaterialUI + TailwindCSS)
 - Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS)
 - User Login System (ReactJS + MaterialUI + ExpressJS)
+
+⚡School Underwater Robotics Projects
 - Underwater robotics computer vision (Python OpenCV)
+  
+⚡School Projects
+- Cinema Website (HTML CSS Javascript)
+- Company Management (Java)
+- TCP Connection (Python)
+- Hash Tables (C++)
+
+
