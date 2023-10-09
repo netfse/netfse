@@ -24,7 +24,7 @@ A third-year student at the City University of Hong Kong
 🤔I'm interested in the field of software design and programming.
 
 ⚡My Projects
-- Personal Website (ReactJS + MaterialUI + TailwindCSS Frontend)
-- Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS Frontend)
-- User Login System (ReactJS Frontend + ExpressJS Backend)
+- Personal Reactive Website (ReactJS + MaterialUI + TailwindCSS)
+- Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS)
+- User Login System (ReactJS + MaterialUI + ExpressJS)
 - Underwater robotics computer vision (Python OpenCV)
