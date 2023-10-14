@@ -39,5 +39,5 @@ A third-year student at the City University of Hong Kong
 
 ⚡School Graphic Design Projects
 - [Blueprint of business and technology plan (Act as a Team Leader and Main Designer Role)](https://github.com/netfse/English-for-Engineering/blob/1f4556cbbab0a744f2748017fb79da7e11c4499f/T01-Group05-Blueprint_4_.pdf)
-- [Infographic (Act as a Team Leader and Main Designer Role)]([https://github.com/netfse/Cinema-Website](https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)
+- [Infographic (Act as a Team Leader and Main Designer Role)](https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)
 
