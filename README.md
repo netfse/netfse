@@ -31,10 +31,13 @@ A third-year student at the City University of Hong Kong
 ⚡School Underwater Robotics Projects
 - Underwater Robotics Computer Vision (Python OpenCV)
   
-⚡School Projects
+⚡School Programming Projects
 - [Cinema Website (HTML CSS Javascript)](https://github.com/netfse/Cinema-Website)
 - [Company Management (Java)](https://github.com/netfse/Company-Management)
 - [TCP Connection (Python)](https://github.com/netfse/TCP-Connection)
 - [Hash Tables (C++)](https://github.com/netfse/Hash-Tables)
 
+⚡School Graphic Design Projects
+- [Blueprint of business and technology plan (Act as a Team Leader and Main Designer Role)](https://github.com/netfse/English-for-Engineering/blob/1f4556cbbab0a744f2748017fb79da7e11c4499f/T01-Group05-Blueprint_4_.pdf)
+- [Infographic (Act as a Team Leader and Main Designer Role)]([https://github.com/netfse/Cinema-Website](https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)
 
