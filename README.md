@@ -27,7 +27,7 @@ A third-year student at the City University of Hong Kong
 - Personal Reactive Website (ReactJS + MaterialUI + TailwindCSS)
 - Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS)
 - User Login System Frontend (ReactJS + MaterialUI)
-- [User Login System Backend (ExpressJS)](https://github.com/netfse/p-web-userloginsystem)
+- [User Login System Backend (ExpressJS)](https://github.com/netfse/pweuserservice)
 
 ⚡School Underwater Robotics Projects
 - [Underwater Robotics Computer Vision (Python OpenCV)](https://github.com/netfse/uw)
