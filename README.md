@@ -34,7 +34,7 @@ A third-year student at the City University of Hong Kong
   
 ⚡School Programming Projects
 - [Cinema Website (HTML CSS Javascript)](https://github.com/netfse/Cinema-Website)
-- [Company Management (Java)](https://github.com/netfse/Company-Management)
+- [Company Management System (Java)](https://github.com/netfse/Company-Management)
 - [TCP Connection (Python)](https://github.com/netfse/TCP-Connection)
 - [Hash Tables (C++)](https://github.com/netfse/Hash-Tables)
 
