@@ -30,7 +30,7 @@ A third-year student at the City University of Hong Kong
 - [User Login System Backend (ExpressJS)](https://github.com/netfse/p-web-userloginsystem)
 
 ⚡School Underwater Robotics Projects
-- Underwater Robotics Computer Vision (Python OpenCV)
+- [Underwater Robotics Computer Vision (Python OpenCV)](https://github.com/netfse/uw)
   
 ⚡School Programming Projects
 - [Cinema Website (HTML CSS Javascript)](https://github.com/netfse/Cinema-Website)
