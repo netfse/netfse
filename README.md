@@ -25,6 +25,7 @@ A third-year student at the City University of Hong Kong
 
 ⚡My Websites (Netlify)
 - [Personal Reactive Website (ReactJS + MaterialUI + TailwindCSS)](https://main--beamish-peony-f315c8.netlify.app)
+- Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS)
 - [User Login System Frontend (ReactJS + MaterialUI + TailwindCSS)](https://main--aquamarine-blini-c55521.netlify.app)
 
 ⚡My Projects (Github)
