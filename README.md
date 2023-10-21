@@ -34,16 +34,16 @@ A third-year student at the City University of Hong Kong
 - [User Login System Frontend (ReactJS + MaterialUI + TailwindCSS)](https://github.com/netfse/pweuserservice-frontend)
 - [User Login System Backend (ExpressJS)](https://github.com/netfse/pweuserservice)
 
-⚡School Underwater Robotics Projects
+⚡School Underwater Robotics Projects (Github)
 - [Underwater Robotics Computer Vision (Python OpenCV)](https://github.com/netfse/uw)
   
-⚡School Programming Projects
+⚡School Programming Projects (Github)
 - [Cinema Website (HTML CSS Javascript)](https://github.com/netfse/Cinema-Website)
 - [Company Management System (Java)](https://github.com/netfse/Company-Management)
 - [TCP Connection (Python)](https://github.com/netfse/TCP-Connection)
 - [Hash Tables (C++)](https://github.com/netfse/Hash-Tables)
 
-⚡School Graphic Design Projects
+⚡School Graphic Design Projects (Github)
 - [Blueprint of business and technology plan (Act as a Team Leader and Main Designer Role)](https://github.com/netfse/English-for-Engineering/blob/1f4556cbbab0a744f2748017fb79da7e11c4499f/T01-Group05-Blueprint_4_.pdf)
 - [Infographic (Act as a Team Leader and Main Designer Role)](https://github.com/netfse/English-for-Engineering/blob/365f9d2b16c1dc1a4198b6b0a0fb663ebef2da2f/organ-donation_59025548.png)
 
