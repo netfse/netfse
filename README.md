@@ -33,6 +33,7 @@ A third-year student at City University of Hong Kong
 - Personal Finance Dashboard (ReactJS + MaterialUI + ApexchartsJS)
 - [User Login System Frontend (ReactJS + MaterialUI + TailwindCSS)](https://github.com/netfse/pweuserservice-frontend)
 - [User Login System Backend (ExpressJS)](https://github.com/netfse/pweuserservice)
+- [Uno-Game-Multiplayer (Java)](https://github.com/netfse/UNO-Game-Multiplayer)
 
 ⚡School Underwater Robotics Projects (Github)
 - [Underwater Robotics Computer Vision (Python OpenCV)](https://github.com/netfse/uw)
