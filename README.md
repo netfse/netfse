@@ -46,5 +46,6 @@ A third-year student at City University of Hong Kong
 
 ⚡School Graphic Design Projects (Google Drive)
 - [Blueprint of business and technology plan (Act as a Team Leader and Main Designer Role)](https://drive.google.com/file/d/1yPDhSzv2savwE6rOlvplFOAobD4v7NEO/view?usp=sharing)
+- [Powerpoint of business and technology presentation (Act as a Team Leader and Main Designer Role)](https://drive.google.com/file/d/1XnmHwzRhbR-0QCV4ut31KYQJXWxhycVs/view?usp=sharing)
 - [Infographic (Act as a Team Leader and Main Designer Role)](https://drive.google.com/file/d/1FeI48fULFTLMMA5A8yG3QY1BLz_qvmKF/view?usp=sharing)
 
